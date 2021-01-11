@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
+
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 
     <item android:title="first"
         android:icon="@drawable/ic_baseline_add_circle_24"
-        android:id="@+id/FirstFragment"/>
+        android:id="@+id/action_first"/>
 
     <item android:title="Second"
         android:icon="@drawable/ic_baseline_cloud_upload_24"
-        android:id="@+id/SecondFragment"/>
+        android:id="@+id/action_second"/>
 
     <item android:title="Third"
         android:icon="@drawable/ic_baseline_linked_camera_24"
-        android:id="@+id/ThirdFragment"/>
+        android:id="@+id/action_third"/>
 
 
 </menu>
