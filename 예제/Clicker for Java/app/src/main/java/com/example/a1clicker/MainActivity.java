@@ -1,4 +1,4 @@
-package com.example.a1clicker;
+  package com.example.a1clicker;
 
 import androidx.appcompat.app.AppCompatActivity;
 
