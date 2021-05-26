@@ -40,3 +40,4 @@ public class MyService extends Service {
         Log.d("test", "서비스의 onDestroy");
     }
 }
+
